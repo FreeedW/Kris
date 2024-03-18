@@ -1,0 +1,8 @@
+"Time of incident","29.01.2024.  20:43:42 - 20:59:24"
+"MAC Attacker","08:00:27:b1:9d:67"
+"MAC Victims","08:00:27:fa:d3:d2"
+"IP Attacker","192.168.0.1"
+"IP Victims","192.168.0.100"
+"Type of attack","Man-in-the-Middle,MITM"
+"CVE vulnerability","CVE-2023-50703"
+"Goal (program)","Intercepting data over the network"
